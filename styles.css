@@ -1,20 +1,4 @@
-* {
-  font-family: sans-serif;
-}
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
-.left {
-  background-color: #af493f;
-}
-
-.giftIcon {
-  font-size: 3rem;
-}
-
+/* Layout and Container Styles */
 .title {
   display: flex;
   flex-direction: column;
@@ -38,6 +22,25 @@ a {
   gap: 2rem;
 }
 
+/* Specific Elements */
+.left {
+  background-color: #af493f;
+}
+
+.giftIcon {
+  font-size: 3rem;
+}
+
 imageAbout {
-    height: 500px;
+  height: 500px;
+}
+
+/* General Styles */
+* {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
