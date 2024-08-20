@@ -1,0 +1,43 @@
+* {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.left {
+  background-color: #006599;
+}
+
+.giftIcon {
+  font-size: 3rem;
+}
+
+.title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem;
+  color: white;
+}
+
+.navLinks {
+  color: white;
+  list-style: none;
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.about {
+  display: flex;
+  gap: 2rem;
+}
+
+imageAbout {
+    height: 500px;
+}
